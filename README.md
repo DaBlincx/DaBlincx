@@ -1,6 +1,6 @@
 # DaBlincx
 
-Hi there 👋, I'm DaBlincx! 
+Hi there, I'm DaBlincx! 
 
 I'm a software developer with a passion for building innovative and useful applications. <br>
 I have experience in a variety of programming languages and frameworks and I'm always looking to learn more and improve my skills. <br>
