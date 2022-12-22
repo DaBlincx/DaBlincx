@@ -8,4 +8,4 @@ I enjoy contributing to open-source projects and collaborating with other develo
 
 You can check out my socials below :D
 
-[![YouTube](https://img.shields.io/badge/YouTube-DaBlincx-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@DaBlincx) [![Twitter](https://img.shields.io/badge/Twitter-walfyur-blue?style=for-the-badge&logo=twitter)](https://twitter.com/@walfyur) [![Website](https://img.shields.io/badge/Website-dablincx.github.io-green?style=for-the-badge&logo=internet-explorer)](https://dablincx.github.io)
+[![YouTube](https://img.shields.io/badge/YouTube-DaBlincx-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@DaBlincx) [![Twitter](https://img.shields.io/badge/Twitter-walfyur-blue?style=for-the-badge&logo=twitter)](https://twitter.com/@walfyur) [![Website](https://img.shields.io/badge/Website-dablincx.me-green?style=for-the-badge&logo=internet-explorer)](https://dablincx.me)
